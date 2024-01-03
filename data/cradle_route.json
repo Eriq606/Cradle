@@ -1,0 +1,12 @@
+{
+    "default_route":"/[appname]/[Home]",
+    "sidebar_routes": 
+    [
+        {
+            "link":"/[appname]/[Home]",
+            "icon":"bi bi-house-fill",
+            "label":"Home"
+        }
+    ],
+    "layout":"pages/layout/layout.jsp"
+}
